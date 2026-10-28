@@ -1,7 +1,0 @@
-# Netlify: direcciones limpias para las webs de país.
-# Los archivos que existen (index.html, images/, datos/…) se sirven normalmente.
-# /argentina/nombre-de-la-organizacion · /argentina/tema/slug · /argentina/historia/slug
-/novedades/:slug   /novedad.html   200
-/:pais/:ver/:slug   /pais.html   200
-/:pais/:slug        /pais.html   200
-/:pais              /pais.html   200
